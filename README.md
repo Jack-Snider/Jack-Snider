@@ -15,15 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choiman2021)](https://solved.ac/choiman2021)
-
-
-
-<br><br>
-
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Snider)](https://github.com/Jack-Snider/github-readme-stats)
+
+
+
+
