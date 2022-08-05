@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<h1>Profile from Baekjoon</h1>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choiman2021)](https://solved.ac/choiman2021)
+
+<h1>Most used Language</h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Snider)](https://github.com/Jack-Snider/github-readme-stats)
