@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://github.com/Jack-Snider](https://github.com/Jack-Snider)
 
 - 📫 How to reach me **choiman2021@gmail.com**
+- My Algorithm & Programming skills : https://career.programmers.co.kr/pr/choiman2021_959
 
 <h3 align="left">Connect with me: +82 010-5223-5124</h3>
 <p align="left">
