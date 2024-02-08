@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jack Snider</h1>
+<h1 align="center">Hi 👋, I'm Dev Choi</h1>
 <h3 align="center">A passionate Back-end developer from Korea and i am very cute</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jack-snider&label=Profile%20views&color=0e75b6&style=flat" alt="jack-snider" /> </p>
