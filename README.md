@@ -1,7 +1,7 @@
 ### Hi there I'm Dev Choi👋
 
 <!--
-**Jack-Snider/Jack-Snider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jack-Snider/Dev Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
